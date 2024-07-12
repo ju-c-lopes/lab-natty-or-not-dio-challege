@@ -28,7 +28,7 @@ Ebook sobre um projeto de robô com IA que aprende  a linguagem dos pets e tradu
 
 ## 🚀 Resultados
 > O ebook pode ser acessado no link abaixo:
-* [EBOOK - Petlinguo AI Project](#)
+* [EBOOK - Petlinguo AI Project](./ebook/Petlinguo-AI-Project.pdf)
 
 ## 💭 Reflexão (Opcional)
 > Foi muito divertido desenvolver esse material, e entender o quanto precisamos ser bem específicos e objetivos na criação dos prompts que fornecemos para as IAs.
